@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hard Core 是活跃于L服联盟的一个工会"
+title: "Hard Core 工会欢迎你的加入"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
