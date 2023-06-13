@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hard Core / 洛丹伦联盟"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hard Core"
 description              : &description "personal description"
 url                      : https://hardcore-l.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
