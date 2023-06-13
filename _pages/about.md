@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hard Core 是活跃于L服联盟的一个工会"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
